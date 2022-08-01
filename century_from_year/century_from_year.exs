@@ -1,4 +1,3 @@
-
 def solution(year) do
   # Condition Structure
   if rem(year, 100) == 0 do
